@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+
+.App input {
+  margin: 10px;
+  padding: 8px;
+}
+
+.App button {
+  margin: 10px;
+  padding: 8px 16px;
+}
+
+.App ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.App li {
+  margin: 10px 0;
+}
